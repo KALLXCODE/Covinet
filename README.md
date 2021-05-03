@@ -1,6 +1,8 @@
 # HackDSC
 Domain - Health
 
+https://kallxcode.github.io/Covinet/
+
 **COVINET**
 
 ![WhatsApp Image 2021-05-03 at 8 14 23 AM](https://user-images.githubusercontent.com/79207707/116839169-d63fbe80-abee-11eb-8b41-5e7542e21f99.jpeg)
